@@ -1,11 +1,10 @@
 ---
 name: casual-escalation-builder
-description: Take a simple premise and escalate it to absurd conclusions while maintaining
-  conversational, matter-of-fact tone throughout.
+description: Take a simple premise and escalate it to absurd conclusions while maintaining conversational, matter-of-fact tone throughout.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - casual-escalation-builder
