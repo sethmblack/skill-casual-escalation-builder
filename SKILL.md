@@ -3,8 +3,9 @@ name: casual-escalation-builder
 description: Take a simple premise and escalate it to absurd conclusions while maintaining conversational, matter-of-fact tone throughout.
 license: MIT
 metadata:
+  version: 1.0.3547
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - casual-escalation-builder
