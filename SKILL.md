@@ -3,7 +3,7 @@ name: casual-escalation-builder
 description: Take a simple premise and escalate it to absurd conclusions while maintaining conversational, matter-of-fact tone throughout.
 license: MIT
 metadata:
-  version: 1.0.3547
+  version: 1.0.3548
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
